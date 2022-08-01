@@ -15,7 +15,7 @@
         "pear/net_url2": "^2.2",
         "pear/mail_mime": "^1.10",
         "firebase/php-jwt": "^4.0 || ^5.0",
-        "guzzlehttp/guzzle": "^7.4.2",
+        "guzzlehttp/guzzle": "^6.5.8",
         "laminas/laminas-mime": "^2.9.1",
         "laminas/laminas-mail": "^2.16.0",
         "microsoft/azure-storage-blob": "^1.5",
